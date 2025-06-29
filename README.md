@@ -2,7 +2,7 @@ Decide: Decision Tree-Based Inventory Data Estimation Tool
 Overview
 Decide is a Python-based tool designed to assist Life Cycle Assessment (LCA) practitioners in generating preliminary estimates of inventory data for chemical processes. It uses decision tree models to predict process characteristics based on reaction and molecular property inputs.
 
-Note: The estimates provided by DecIDE are intended for screening purposes only. Users should replace these estimates with actual plant data or detailed process simulations as soon as feasible.
+Note: The estimates provided by Decide are intended for screening purposes only. Users should replace these estimates with actual plant data or detailed process simulations as soon as feasible.
 
 This tool is provided as part of the Electronic Supplementary Information for the publication: 
 Tim Langhorst, Benedikt Winter, Moritz Tuchschmid, Dennis Roskosch, André Bardow, From reaction stoichiometry to life cycle assessment: Decision tree-based estimation tool, ACS Environmental Au, 2025
